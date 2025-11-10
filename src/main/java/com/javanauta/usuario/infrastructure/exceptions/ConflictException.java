@@ -1,4 +1,4 @@
-package com.javanauta.apredendospring.infrastructure.exceptions;
+package com.javanauta.usuario.infrastructure.exceptions;
 
 public class ConflictException extends RuntimeException{
     public ConflictException(String mensagem){
